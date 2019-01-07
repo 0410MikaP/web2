@@ -35,11 +35,14 @@ header{
   
 aside{
   background-color:blue;
+  color:black;
   width:200px;
-  froat:right;
+  margin:5px;
+  float:right;
+  overflow:auto;
   position:relative;
   top:20px;
-  left:10px;
+  right:10px;
 }
 footer{
   background-color:purple;
