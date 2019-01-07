@@ -20,7 +20,7 @@ header{
 #main{
   background-color:white;
   width:calc(100%-200px);
-  min-width:500px;
+  min-width:calc(100%-200px);
   float:left;
 }
 .box{
@@ -47,4 +47,5 @@ aside{
 footer{
   background-color:purple;
   clear:both;
+  height:200px;
 }
