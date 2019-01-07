@@ -34,7 +34,7 @@ header{
 }
   
 aside{
-  background-color:blue;
+  background-color:#a0d8ef;
   color:black;
   width:200px;
   margin:5px;
@@ -45,7 +45,7 @@ aside{
   right:10px;
 }
 footer{
-  background-color:purple;
+  background-color:#6e4a55;
   clear:both;
   height:200px;
 }
